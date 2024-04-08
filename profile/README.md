@@ -23,7 +23,7 @@ COSN built a commuity to facilitate open science practices. Our platforms includ
 |OpenTutorials	|Handson-tutorials	|18|
 |OpenTransfer	|Translations	|38|
 |OpenPlus	|Panel discussion	|5|
-|In-person sessions	|Workshop/hackathon	4 |(2016/2017/2019/2023)|
+|In-person sessions	|Workshop/hackathon	| 4 (2016/2017/2019/2023)|
 
 ## Papers by COSN or related to COSN
 ### Papers led by COSN
