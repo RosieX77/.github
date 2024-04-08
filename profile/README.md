@@ -1,14 +1,14 @@
 # About the Chinese Open Science Network (COSN)
 
-The Chinese Open Science Network (twitter/X: [@ChineseOpenSci](https://twitter.com/ChineseOpenSci); bsky: [@chineseopensci.bsky.social](https://bsky.app/profile/chineseopensci.bsky.social); website: [open-sci.cn](open-sci.cn)) is a loosely organized grassroots network, initiated by Dr. Hu Chuan-Peng in 2016. COSN brings together Early Career Researchers (ECRs) from diverse backgrounds to advance open science practices using both Mandrin and English. It consists of seven subcommittees and an editoral team for WeChat-Offical-Account (see below for details).  
+The Chinese Open Science Network (twitter/X: [@ChineseOpenSci](https://twitter.com/ChineseOpenSci); bsky: [@chineseopensci.bsky.social](https://bsky.app/profile/chineseopensci.bsky.social); website: [open-sci.cn](open-sci.cn)) is a loosely organized grassroots network, initiated by Dr. Hu Chuan-Peng in 2016. COSN brings together Early Career Researchers (ECRs) from diverse backgrounds to advance open science practices using both Mandarin and English. It consists of seven subcommittees and an editorial team for WeChat-Offical-Account (see below for details).  
 
-COSN built a commuity to facilitate open science practices. Our platforms include a WeChat official account (WeChat is a comphrensive social media app dominately used in China), a website, and a public project on the Open Science Framework (osf.io/9d7y4/). The WeChat-Public-Account is organized like a blog, and allows users to subscribe and receive updates. With WeChat’s large user base, it is a useful platform to share information. Our account currently has more than 30, 000 subscribers and we regularly recruit volunteers for Open Science related activities (e.g., translating open science related tutorials or blogs). The OSF project page is where we store all materials related to Open Science. It includes the slides of talks in Chinese, recordings from online journal club, recordings of some lectures, and podcasts. We also has an X (formerly twitter) account and a bluesky account (@chineseopensci.bsky.social) to promote Open Science in English.
+COSN built a community to facilitate open science practices. Our platforms include a WeChat official account (WeChat is a comprehensive social media app dominately used in China), a website, and a public project on the Open Science Framework (osf.io/9d7y4/). The WeChat-Public-Account is organized like a blog, and allows users to subscribe and receive updates. With WeChat’s large user base, it is a useful platform to share information. Our account currently has more than 30 000 subscribers, and we regularly recruit volunteers for Open Science-related activities (e.g., translating open science-related tutorials or blogs). The OSF project page is where we store all materials related to Open Science. It includes the slides of talks in Chinese, recordings from online journal clubs, recordings of some lectures, and podcasts. We also have an X (formerly Twitter) account and a bluesky account (@chineseopensci.bsky.social) to promote Open Science in English.
  
 ### Organizational structure of COSN
 | Subcommittee	| Person in Charge	| Members| 
 |---------------|-------------------|--------|
 | OpenTalks	| Cao Miao	| Zhang Han, Chen Ji, Liu Quanying| 
-| OpenMinds	| Jin Haiyang	| Xiao Qinyu, Chen Yanxiu| 
+| OpenMinds	| Jin Haiyang	| Xiao Qinyu, Miao Li, Rong Zhang, Meiheng He, Chen Yanxiu| 
 | OpenTutorials	| Wang Qing	| Gao Mengyu, Lu Bin, Xu Ting| 
 | OpenTransfer	| Jin Shuxian	| Zhang Yiwen, Yang Jinbiao| 
 | Outreach	| Yang Yufang	| Geng Haiyang, Zhang Lei, Jin Shuxian| 
@@ -50,7 +50,7 @@ COSN built a commuity to facilitate open science practices. Our platforms includ
 |Wang, Xindi|sandywang.rest@gmail.com |China|
 |Wang, Qing|vincent.w.qing@gmail.com |Shanghai Jiaotong University, Shanghai, China|
 |Liu, Quanying| liuqy@sustech.edu.cn| SUSTech, China|
-|Jin, Haiyang| haiyang.jin@nyu.edu | NYU, Abu Dhabi|
+|Jin, Haiyang| haiyang.jin@outlook.com | Zhejiang Sci-Tech University, Hangzhou, China|
 |Jin, Shuxian| s.jin@vu.nl| U of SussexUK|
 |Ge, Jianqiao|gejq@pku.edu.cn| Peking University, China|
 |Gao, Mengyu|mengyu.psy@gmail.com|Beijing Normal University, Beijing, China|
