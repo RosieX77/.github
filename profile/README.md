@@ -11,7 +11,7 @@ COSN built a community to facilitate open science practices. Our platforms inclu
 | OpenMinds	| Jin Haiyang	| Xiao Qinyu, Miao Li, Rong Zhang, Meiheng He, Chen Yanxiu| 
 | OpenTutorials	| Wang Qing	| Gao Mengyu, Lu Bin, Xu Ting| 
 | OpenTransfer	| Jin Shuxian	| Zhang Yiwen, Yang Jinbiao| 
-| Outreach	| Yang Yufang	| Geng Haiyang, Zhang Lei, Jin Shuxian| 
+| Outreach	| Yang Yufang	| Geng Haiyang, Zhang Lei, Jin Shuxian, Zhiqi Xu| 
 | Operations	| Hu Chuan-Peng	| Wang Weiwei, Xiao Qinyu, Yang Jinbiao| 
 | Special Issues	| Wang Xindi	| | 
 
@@ -61,6 +61,7 @@ COSN built a community to facilitate open science practices. Our platforms inclu
 |Lu, Bin| |CAS, Beijing, China|
 |Geng, Haiyang| miller.geng@mail.com| TCCI|
 |Hu Chuan-Peng|hcp4715@gmail.com | Nanjing Normal University|
+|Zhiqi Xu|z.xu@iss.nl| Erasmus University Rotterdam, The Netherlands|
 
 ### Editing team members
 |Name|Email	|Affiliation|
